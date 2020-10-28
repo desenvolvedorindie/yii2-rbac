@@ -1,6 +1,8 @@
 Módulo
   - Module
   - Controllers
+  - Model
+    - Role
   - Assets
   - Views
 
