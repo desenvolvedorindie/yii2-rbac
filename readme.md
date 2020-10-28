@@ -3,6 +3,7 @@ Módulo
   - Controllers
   - Model
     - Role
+    - RoleSearch
   - Assets
   - Views
 
