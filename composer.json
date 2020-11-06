@@ -1,0 +1,22 @@
+{
+    "name": "desenvolvedorindie/yii2-rbac",
+    "description": "The RBAC extension for the Yii Framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","auth","rbac"],
+    "minimum-stability": "dev",
+    "license": "BSD-3-Clause",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "authors": [
+        {
+            "name": "Welsiton Ferreira",
+            "email": "wfcreations@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "desenvolvedorindie\\rbac\\": "src"
+        }
+    }
+}
